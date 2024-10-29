@@ -1,4 +1,3 @@
-C:\Users\antho\AppData\Local\Programs\Python\Python313\python.exe C:\Users\antho\OneDrive\Documents\GitHub\Options-Pricing-Model-Implementation\main.py 
 
 📊 Fetching data for AAPL...
 ✓ Current Stock Price: $233.40
@@ -28,6 +27,12 @@ Probability of Profit: 100.0%
 💡 INTERPRETATION:
 ✅ Option is IN THE MONEY
    Currently $63.40 in the money
+
+
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/ec28b75d-1b99-41bf-a7da-99708e9cc8a3)
 ![image](https://github.com/user-attachments/assets/366fa33a-eb4d-4dbc-8b5d-745e22e52e03)
