@@ -31,4 +31,3 @@ Probability of Profit: 100.0%
 
 
 ![image](https://github.com/user-attachments/assets/ec28b75d-1b99-41bf-a7da-99708e9cc8a3)
-![image](https://github.com/user-attachments/assets/366fa33a-eb4d-4dbc-8b5d-745e22e52e03)
