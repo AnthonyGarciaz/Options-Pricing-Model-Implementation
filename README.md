@@ -31,3 +31,10 @@ Probability of Profit: 100.0%
 
 
 ![image](https://github.com/user-attachments/assets/ec28b75d-1b99-41bf-a7da-99708e9cc8a3)
+
+
+
+- Developed Black-Scholes options pricing calculator using Python
+- Implemented Monte Carlo simulation for exotic options pricing
+- Created visualization tools for Greeks and risk metrics
+- Built interactive dashboard for real-time options analysis
